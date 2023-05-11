@@ -1,3 +1,21 @@
+# 效果展示
+
+## 首页
+
+![首页](https://github.com/xin0608/react-travel/assets/104176827/b0c4ce81-7d79-43ce-9593-8b786cde4f81)
+
+## 详情页
+
+![详情页](https://github.com/xin0608/react-travel/assets/104176827/63293d62-6d0c-4453-8590-2d032871f1e8)
+
+## 搜索页
+
+![搜索页](https://github.com/xin0608/react-travel/assets/104176827/0c442a90-d9a9-4641-a0da-b0c442f81afc)
+
+## 登录注册、购物车、支付页
+
+![登录注册、购物车、支付页](https://github.com/xin0608/react-travel/assets/104176827/29eeddaa-26f2-4602-9735-27b163697970)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
